@@ -53,9 +53,9 @@ print (banner)
 print ('%s[%s+%s] %sIP Kamu %s: %s%s' % (p,h,p,k,m,h,ip))
 no = input('\n\033[37m[\033[33m•\033[37m] \033[33mex \033[31m: \033[32m08xx\n\033[37m[\033[32m+\033[37m] \033[33mPhone\033[31m:\033[32m ')
 if no =='':
-   exit('\033[37m[\033[31m!\033[37m] Diisi yawww')
+   exit('\033[37m[\033[31m!\033[37m] Diisi yawww, btw isoh e gur 5 sms/hari ketoke')
 elif len(no) <= 9:
-   exit('\033[37m[\033[31m!\033[37m] Nomor e salah wi lho, nganggo 628xxx ')
+   exit('\033[37m[\033[31m!\033[37m] Nomor e salah wi lho, btw isoh e gur 5 sms/hari ketoke')
 else:
    jml = int(input('\n\033[37m[\033[32m+\033[37m] \033[33mJumlah\033[31m:\033[32m '))
 
