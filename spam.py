@@ -31,9 +31,7 @@ a,m,h,k,b,u,c,p,bn,o = [
 import os
 
 os.system('clear')
-os.system('termux-open-url https://youtube.com/channel/UCXk4vbvDl7i6dxWBtNdpx6w')
-os.system('clear')
-os.system('termux-open-url https://cararegistrasi.com/bvC8MF')
+os.system('termux-open-url https://www.youtube.com/channel/UCPTag_HHIwsRKWZxN-cXN4A')
 # Di ubah sesuai kalian 
 # Subscribe dulu :)
 os.system("clear")
@@ -46,18 +44,18 @@ banner= """
 \033[37m    /_/ \033[32m( \033[37mSpam Sms \033[33mMatahari \033[32m| \033[37mBY \033[33mXenzi-Xni \033[32m) \033[32m(\033[37mV.1\033[32m)
 \033[32m[•]───────────────────────────────────────────[•]
 \033[32m | [+]  Author  : Xenzi 		       |
-\033[32m | [+]  Tambahan:\033[90m MisterAM		       |
-\033[32m | [+]  TEAM    : DARK CYBER HUNTER            |
-\033[32m | [+]  Chanel  : Mister A.M		       |
+\033[32m | [+]  Tambahan:\033[90m Valciel              |
+\033[32m | [+]  TEAM    : Aku dewe lah, dikiro rame"?  |
+\033[32m | [+]  Chanel  : Valciel		       |
 \033[32m[•]───────────────────────────────────────────[•]"""
 os.system('clear')
 print (banner)
 print ('%s[%s+%s] %sIP Kamu %s: %s%s' % (p,h,p,k,m,h,ip))
 no = input('\n\033[37m[\033[33m•\033[37m] \033[33mex \033[31m: \033[32m08xx\n\033[37m[\033[32m+\033[37m] \033[33mPhone\033[31m:\033[32m ')
 if no =='':
-   exit('\033[37m[\033[31m!\033[37m] Janggan Kosong lurs')
+   exit('\033[37m[\033[31m!\033[37m] Diisi yawww')
 elif len(no) <= 9:
-   exit('\033[37m[\033[31m!\033[37m] Nomor Tidak Valid ')
+   exit('\033[37m[\033[31m!\033[37m] Nomor e salah wi lho, nganggo 628xxx ')
 else:
    jml = int(input('\n\033[37m[\033[32m+\033[37m] \033[33mJumlah\033[31m:\033[32m '))
 
